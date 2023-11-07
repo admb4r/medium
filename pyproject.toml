@@ -1,0 +1,8 @@
+[tool.ruff]
+select = ["E", "F", "I", "ANN", "PT"]
+ignore = ["ANN101", "ANN102", "ANN002", "ANN003", "ANN401"]
+line-length = 100
+target-version = "py311"
+
+[tool.black]
+line-length = 100
