@@ -5,6 +5,7 @@ A repository to store code snippets and examples from my Medium profile [@algoan
 **Current Articles**
 1. [Pytest -- Indirect Parametrization](https://medium.com/@algoandy/pytest-indirect-parametrization-fa0721324968)
 2. [Pytest -- Fixture Teardown (Yield Fixtures)](https://medium.com/@algoandy/pytest-fixture-teardown-yield-fixtures-ed21640f6b20)
+3. [Pytest -- Fixture Scope](https://medium.com/@algoandy/pytest-fixture-scope-592c50aff652)
 
 ## Running
 
