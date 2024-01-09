@@ -8,6 +8,7 @@ A repository to store code snippets and examples from my Medium profile [@algoan
 3. [Pytest -- Fixture Scope](https://medium.com/@algoandy/pytest-fixture-scope-592c50aff652)
 4. [Pytest -- How to speed up your tests](https://medium.com/@algoandy/pytest-how-to-speed-up-your-tests-c8a6e3145d7e)
 5. [How to load Python modules dynamically](https://medium.com/@algoandy/how-to-load-python-modules-dynamically-ebcd175ee631)
+6. [Python -- Why you should use Typeguard](https://medium.com/@algoandy/python-why-you-should-use-typeguard-208e70ad6a67)
 
 ## Running
 
